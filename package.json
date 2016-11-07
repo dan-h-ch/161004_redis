@@ -1,0 +1,14 @@
+{
+  "name": "161004_redis",
+  "version": "1.0.0",
+  "description": "redis example",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "daniel chang",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.6.2"
+  }
+}
